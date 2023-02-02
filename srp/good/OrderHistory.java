@@ -1,0 +1,7 @@
+package srp.good;
+
+public class OrderHistory {
+    public void getDailyHistory() {}
+    
+    public void getMonthlyHistory() {}
+}
